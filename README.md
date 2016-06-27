@@ -1,5 +1,9 @@
 #java-money-utils
 
+
+精确的单位运算
+
+
 Library that is designed to simplify tasks that involve a subject of money. It consists of a few classes:
 * [`Money`](https://github.com/qiwi/java-money-utils/blob/master/src/main/java/ru/mw/moneyutils/Money.java) is a Currency and BigDecimal pair which holds an amount of money.
 * [`ExchangeRates`](https://github.com/qiwi/java-money-utils/blob/master/src/main/java/ru/mw/moneyutils/ExchangeRates.java) is a map of available exchange rates from one currency to another.
